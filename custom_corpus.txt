@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is intelligence demonstrated by machines, in contrast to natural intelligence displayed by humans and animals. AI research has been defined as the field of study of intelligent agents.
+
+Machine Learning (ML) is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing algorithms that can access data and use it to learn for themselves.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers. It has driven many recent advances in computer vision, natural language processing, and speech recognition.
+
+LangChain is a framework for developing applications powered by language models. It provides tools for chaining LLM calls, managing memory, and integrating external data sources.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines retrieval of relevant documents with generative LLMs. It helps reduce hallucinations and ground answers in external knowledge.
+
+Streamlit is an open-source Python library that makes it easy to create custom web apps for machine learning and data science. You can build interactive chatbots in just a few lines of code.
